@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there 
+###### general Kenobi, you are a bold one!
+
 
 I am interested in physyics but I also like programming as a hobby, that's why I started with a discord bot.
 
