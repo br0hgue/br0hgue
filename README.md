@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**brah-the-machine-god/brah-the-machine-god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am interested in physyics but I also like programming as a hobby, that's why i started and made my discord bot.
 
 - 🔭 I’m currently unenployed :(
