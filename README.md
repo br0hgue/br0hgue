@@ -8,6 +8,7 @@ Physics and mathematics enjoyer; artificial intelligence fan; death metal admire
 <br />
 very bad at naming files/folders
 
+mostly use [GitLab](https://gitlab.com/brohgue)
 ## Experience with:
 
 Python machine learning
