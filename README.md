@@ -4,26 +4,22 @@
 
 ## About me:
 
-Physics and mathematics enjoyer; artificial intelligence fan; death metal admirer and horror movie devotee
+Physics and mathematics enjoyer; artificial intelligence fan;
 <br />
-very bad at naming files/folders
 
 mostly use [GitLab](https://gitlab.com/brohgue)
 ## Experience with:
 
 Python machine learning
 
-App development in python
+software development in Rust and Python
 
 RESTful apis
 
 Game development in C#
 
-Html, css and java
+Html, css and javascript
 
-## Author of:
- 
-Project ALICE, the python AI
 
 #### How to reach me:
 
