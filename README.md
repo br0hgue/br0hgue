@@ -23,4 +23,5 @@ Html, css and javascript
 
 #### How to reach me:
 
-Don't
+talk to me on my email:
+victorbradasch@gmail.com
